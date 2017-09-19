@@ -1,9 +1,9 @@
 ***Release Notes
 
 Date: 9/18/2017
-sb2: server framework setup
-    1. ExpressJS & Nodemon
+sb2: server framework
+    1. express, cors, body-parser, nodemon, morgan(logger), path
 sb1 : front end framework setup 
-    1. Removed default react code
-    2. Introduced node-sass-chokidar + npm-run-all package
+    1. removed default react code
+    2. introduced node-sass-chokidar + npm-run-all package
       
